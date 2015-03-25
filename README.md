@@ -17,6 +17,8 @@ Serial-Ports for GPS, Telemetry and SBUS
 
 PPM and SBUS inputs
 
+microSD slot
+
 Autoquad software compatible (Board M4r6) (https://code.google.com/p/autoquad/)
 
 

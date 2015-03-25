@@ -2,13 +2,21 @@ OpenFC is an new Open-Hardware Flight-Controller
 
 
 Standard-Size: 50x50mm (45x45mm holes) 
+
 CPU: STM32F405 @ 168MHZ
+
 Gyro/ACC: MPU6000 (SPI)
+
 Compass: HMC5983 (SPI)
+
 Baro: MS5611 (SPI)
+
 Serial-Ports for GPS, Telemetry and SBUS
+
 8 PWM-ESC-Connectors + CAN-Bus
+
 PPM and SBUS inputs
+
 Autoquad software compatible (Board M4r6) (https://code.google.com/p/autoquad/)
 
 

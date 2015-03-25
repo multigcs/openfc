@@ -19,3 +19,8 @@ Changes v0.91:
 
 First IMU-Test: https://www.youtube.com/watch?v=cWaLLEZJb3Y
 
+First Flight-Test: https://www.youtube.com/watch?v=trHpGgnNXYM
+
+First Poshold-Test: https://www.youtube.com/watch?v=XDp27G_Ods4
+
+
